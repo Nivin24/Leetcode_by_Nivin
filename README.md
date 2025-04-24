@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0001-two-sum) |
+| [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Sorting
@@ -19,5 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
