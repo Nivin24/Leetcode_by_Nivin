@@ -16,5 +16,3 @@ class Solution:
 
         result = [rank_dict[s] for s in score]
         return result
-
-
