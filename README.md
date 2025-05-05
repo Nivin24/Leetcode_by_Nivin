@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Hash Table
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
