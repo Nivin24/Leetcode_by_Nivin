@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
 ## Sorting
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+## Greedy
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
