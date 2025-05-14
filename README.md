@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
