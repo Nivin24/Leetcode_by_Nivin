@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0415-add-strings) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -107,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
