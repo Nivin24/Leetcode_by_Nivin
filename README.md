@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3321-type-of-triangle](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
+| [3321-type-of-triangle](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
