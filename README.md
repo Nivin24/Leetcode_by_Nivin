@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0415-add-strings) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
