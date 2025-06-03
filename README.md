@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0830-largest-triangle-area) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
