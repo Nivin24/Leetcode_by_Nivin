@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0198-house-robber) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Geometry
 |  |
