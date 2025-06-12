@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
@@ -104,14 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
