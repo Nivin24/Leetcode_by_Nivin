@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2486-most-frequent-even-element](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2486-most-frequent-even-element) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/3321-type-of-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2486-most-frequent-even-element](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
+| [2486-most-frequent-even-element](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2486-most-frequent-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
