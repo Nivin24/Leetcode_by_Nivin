@@ -1,25 +1,15 @@
 class Solution:
     def mostFrequentEven(self, nums: List[int]) -> int:
         freq = {}
-        for n in nums:
-            if n % 2 == 0:
-                if n not in freq:
-                    freq[n] = 1
-                else:
-                    freq[n] += 1
-
-        if len(freq) == 0:
+        for num in nums:
+            if num % 2 == 0:
+                freq[num] = freq.get(num, 0) + 1
+        
+        if not freq:
             return -1
 
-        most_freq = 0
-        most_freq_value = float('inf')  
+        max_freq = max(freq.values())
 
-        for num, fr in freq.items():
-            if fr > most_freq:
-                most_freq = fr
-                most_freq_value = num
-            elif fr == most_freq:
-                if num < most_freq_value:  # Tie in frequency → pick the smaller value
-                    most_freq_value = num
+        candidates = [num for num in freq if freq[num] == max_freq]
 
-        return most_freq_value
+        return min(candidates)
