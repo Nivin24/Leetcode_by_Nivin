@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0898-transpose-matrix) |
 | [0944-smallest-range-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1319-unique-number-of-occurrences) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0898-transpose-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
 | ------- |
