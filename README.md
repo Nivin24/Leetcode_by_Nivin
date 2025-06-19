@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
 | [0944-smallest-range-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1319-unique-number-of-occurrences) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
+| [1319-unique-number-of-occurrences](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-most-frequent-even-element](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
