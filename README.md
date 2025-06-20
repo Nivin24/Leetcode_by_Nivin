@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0861-flipping-an-image) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0424-longest-repeating-character-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
