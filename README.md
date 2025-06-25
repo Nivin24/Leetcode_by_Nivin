@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
