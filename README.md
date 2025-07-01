@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0198-house-robber) |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Greedy
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 | [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 | [2486-most-frequent-even-element](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2486-most-frequent-even-element) |
 ## Prefix Sum
@@ -168,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
