@@ -7,5 +7,3 @@ class Solution:
             summ = sum([int(n) for n in sn])
             a.append(summ)
         return min(a)
-
-
