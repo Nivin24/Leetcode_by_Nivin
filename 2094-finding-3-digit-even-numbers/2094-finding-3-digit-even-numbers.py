@@ -5,7 +5,7 @@ class Solution:
         count = Counter(digits)
         res = []
 
-        for num in range(100, 1000, 2):  # only even numbers
+        for num in range(100, 1000, 2): 
             temp = Counter(map(int, str(num)))
             
             if all(count[d] >= temp[d] for d in temp):
