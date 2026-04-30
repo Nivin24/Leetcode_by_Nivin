@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1319-unique-number-of-occurrences) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nivin24/Leetcode_by_Nivin/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1983-maximum-population-year](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1983-maximum-population-year) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1019-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nivin24/Leetcode_by_Nivin/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nivin24/Leetcode_by_Nivin/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nivin24/Leetcode_by_Nivin/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
